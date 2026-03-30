@@ -4,6 +4,10 @@
 # RozaZonix  
 # Name Roza Zonix  
 
+Roza-Zonix-source.github
+Roza-Zonix-source.github.io
+Roza-Zonix-source.io
+
 [1Фото Roza](roza_zonix.jpg)  
 
 [2](roza_zonix.jpg)  
